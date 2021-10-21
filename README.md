@@ -1,2 +1,0 @@
-# zimmer
-Just for fun!
